@@ -8,7 +8,7 @@ export default function ContactUs() {
             background: "linear-gradient(135deg, rgba(147, 112, 219, 0.3) 0%, rgba(150, 150, 250, 0.3) 100%)",
           }}>
                 <p className="text-center mb-8">
-                    We did not love to hear from you! Fill out the form below and we'll <br />
+                    We&apos;t love to hear from you! Fill out the form below and we&apos;ll <br />
                     get back to you as soon as possible.
                 </p>
                 <form className="space-y-6 items-center mx-auto max-w-sm">
