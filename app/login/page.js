@@ -33,7 +33,7 @@ export default function LoginForm() {
 
         <div className="mt-4 text-sm text-center text-gray-600">
           <p>
-            Don't have an account? 
+            Don&apos;t have an account? 
             <Link href="/registration" className="text-blue-700 underline ml-1">Register now</Link>
           </p>
         </div>
